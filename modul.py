@@ -1,7 +1,7 @@
 
 # Модуль вычислений #
 def add(a, b):
-    print('Сумма')
+    print('Сумма  двух чисел')
     return a + b;
 
 if __name__ == '__main__':
